@@ -2,12 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /**
- *positive or negative - print a number
- *@i : integer
- *if the number is greater than 0: is positive;
- *if the number is less than a 0: is genetive, followed by a new line
- *Return 0
-
+*positive_or_negative - print a number
+*@i : integer
+*if the number is greater than 0: is positive, if the numberis 0: is zero
+*if the number is less than a 0: is genetive, followed by a new line
+*Return: 0
+*/
 
    void positive-or_negative(int i)
 {  
